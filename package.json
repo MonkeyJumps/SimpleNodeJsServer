@@ -18,7 +18,7 @@
     "webpack-dev-server": "^2.1.0-beta.11"
   },
   "scripts": {
-    "test": "node ./src/index.js"
+    "run": "babel-node index.js"
   },
   "keywords": [],
   "author": "",
